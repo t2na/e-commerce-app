@@ -28,3 +28,5 @@ Category.init(
 );
 
 module.exports = Category;
+
+// try passing tag ids down into sequelize and pass the category ids into the products
